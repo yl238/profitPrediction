@@ -8,7 +8,7 @@ Files in this directory
 
 `Model-Tuning.ipynb`:          Tune the parameters of the ML models, calculate the classification reports and plots the ROC curve.
 
-`Maximise-Profit-Corrected.ipynb`:   Build model to calculate the maximum profit.
+`Maximise-Profit.ipynb`:   Build model to calculate the maximum profit.
 
 ## Python scripts
 `estimating_uptake.py`:        Run the classification and report of Logistic Regression, Random Forest and Gradient Boosting using the parameters tuned in the Model-Tuning.ipynb notebook.
